@@ -8,7 +8,7 @@
 
 ### 3. Server files
 download or clone server files <br/>
-[Repository](https://github.com/Rus-Bear/support-chat)
+[Repository](https://github.com/Rus-Bear/support-chat-server)
 
 ### 4. Install server modules
 open server directory in cmd and run `npm install`
@@ -20,7 +20,7 @@ move client folder to server folder <br/>
 
 #### Folders structure
 
-- support-chat
+- support-chat-server
   - client
   - ...
 
